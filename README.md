@@ -6,4 +6,4 @@
 2. สร้างบัญชี Supabase
 3. สำรวจ Interface ทั้งสองเครื่องมือ
 ## Screenshot
-- ดูในโฟลเดอร์ 1png - 2png
+- ดูในโฟลเดอร์ week01 - setup
